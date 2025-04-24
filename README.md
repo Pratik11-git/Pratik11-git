@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik Bhavsar</h1>
 <h3 align="center">A passionate developer from India</h3>
-- 😄 Pronouns: he/him
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik11-git&label=Profile%20views&color=0e75b6&style=flat" alt="pratik11-git" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik11-git" alt="pratik11-git" /></a> </p>
+
+- 😄 Pronouns: he/him
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -24,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratik11-git&show_icons=true&locale=en&layout=compact" alt="pratik11-git" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik11-git&show_icons=true&locale=en" alt="pratik11-git" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik11-git&show_icons=true&locale=en" alt="Pratik11-git" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik11-git&" alt="pratik11-git" /></p>
 
